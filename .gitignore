@@ -1,0 +1,19 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local generated reports
+*.log
+reports/*.md
+reports/*.json
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
