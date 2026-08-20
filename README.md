@@ -1,4 +1,17 @@
 ## AETHEL verified
+...Working in progress , wait for it...
+
+
+## Instalación
+
+Para configurar el entorno de desarrollo automáticamente, ejecuta:
+
+```bash
+chmod +x setup.sh
+./setup.sh
+
+
+
 
 ## ⚖️ License & Terms of Use
 
