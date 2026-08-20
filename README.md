@@ -2,9 +2,8 @@
 ...Working in progress , wait for it...
 
 
-## Instalación
-
-Para configurar el entorno de desarrollo automáticamente, ejecuta:
+## Installation
+Run the following commands to automatically configure your development environment:
 
 ```bash
 chmod +x setup.sh
