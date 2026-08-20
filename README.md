@@ -8,11 +8,11 @@ Run the following commands to automatically configure your development environme
 ```bash
 chmod +x setup.sh
 ./setup.sh
+```
 
 
 
-
-## ⚖️ License & Terms of Use
+##⚖️ License & Terms of Use
 
 This project is open-source for **educational, research, and non-commercial personal security auditing purposes** under the **PolyForm Noncommercial License 1.0.0**.
 
