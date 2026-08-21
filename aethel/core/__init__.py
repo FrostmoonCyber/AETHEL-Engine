@@ -1,5 +1,5 @@
 # ==============================================================================
-# AETHEL-Engine 
+# AETHEL-Engine v1.0
 # Copyright (c) 2026 FrostmoonCyber. All Rights Reserved.
 # Author: FrostmoonCyber
 # Repository: https://github.com/FrostmoonCyber/AETHEL-Engine
