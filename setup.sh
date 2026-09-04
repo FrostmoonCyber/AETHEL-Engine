@@ -13,7 +13,7 @@ fi
 
 # 3. Install dependencies (if execute)
 echo "Installing dependencies..."
-./venv/bin/pip install -r requirements.txt
+./venv/Scripts/pip install -r requirements.txt
 
 # 4. Final message with instructions
 echo "Setup completed successfully!"

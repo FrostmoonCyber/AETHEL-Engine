@@ -1,0 +1,5 @@
+# HTTP requests for domain inspection
+requests>=2.31.0
+
+# Terminal formatting and UI
+rich>=13.0.0
